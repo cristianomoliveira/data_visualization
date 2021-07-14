@@ -50,5 +50,5 @@ $ cd data_visualization
 
 # Instale as dependências
 $ pip install -r requirements.txt
-
-
+```
+Para usar Jupyter Notebooks com ambientes virtuais acesse o <a href="https://anbasile.github.io/posts/2017-06-25-jupyter-venv/">link</a>
